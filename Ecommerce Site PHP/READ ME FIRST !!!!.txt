@@ -1,0 +1,28 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+>> NOTE : (for admin panel, login from the user's login)
+
+>>Enter the following details in Login for Admin Panel.
+
+Username: Vinayak@admin.gmail.com
+Password: vinayak@15
+
+>>USER LOGIN
+
+Username: hemant@gmail.com
+Password: hemant@30
+
+Username: Aditya@gmail.com
+Password: aditya@40
+
+Username: shivharsh@gmail.com
+Passowrd: shivharsh@23
+
+_______________________________________________________
+
+DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "database" FOLDER!
